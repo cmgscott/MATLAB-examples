@@ -1,4 +1,4 @@
-function scott3( f, a, b )
+function DifferentiationFormula( f, a, b )
 %scott3 Plots a graph of the f(x) on [a,b] with the derivative calculated
 %using differentiation formula
 
