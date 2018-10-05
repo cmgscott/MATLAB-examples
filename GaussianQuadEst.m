@@ -1,4 +1,4 @@
-function [ gauss3pt ] = scott1( func, a, b )
+function [ gauss3pt ] = GaussianQuadEst( func, a, b )
 %scott1 Returns the 3 point Gaussian quadrature estimate of the integral of
 %the function from a to b
 %   Converts limits of integration to [-1,1]
