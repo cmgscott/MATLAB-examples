@@ -1,4 +1,4 @@
-function [ solnmatrix, runtime ] = scott2( x_vals )
+function [ solnmatrix, runtime ] = GaussianQuad_TrapezoidEst( x_vals )
 %scott2 Finds Gaussian quadrature and trapezoid estimates, and evaluates
 %using the built in integral function, and the runtime for each
 %   The methods were tested first with a simple equation (x^2) to check the
