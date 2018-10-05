@@ -4,7 +4,7 @@ Examples of MATLAB code from a course in applied numerical methods
 ## Differentiation Formula + Test
 The function graphs a function on an interval based on a derivative calculated using the differentiation formula. The test file tests the formula on three different functions.
 
-## Gaussian Quadrature Estimate (GaussianQuadEst.m)
+## Gaussian Quadrature Estimate + Test
 The function estimates the integral of a function on an interval found with a 3 point Gaussian quadrature. The test file calculates the integrals of three functions and finds the error of the function compared to the MATLAB computed integral.
 
 ## Gaussian Quadrature and Trapezoid Estimate
